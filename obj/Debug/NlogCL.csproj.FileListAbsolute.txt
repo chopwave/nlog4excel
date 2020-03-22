@@ -1,0 +1,11 @@
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NLog.config
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NlogCL.dll.config
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NlogCL.dll
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NlogCL.pdb
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\ExcelDna.Integration.dll
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NLog.dll
+C:\Users\masat\source\repos\nlog4excel\bin\Debug\NLog.xml
+C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csproj.CoreCompileInputs.cache
+C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csproj.CopyComplete
+C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.dll
+C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.pdb
