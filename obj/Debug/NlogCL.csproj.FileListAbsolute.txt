@@ -9,3 +9,4 @@ C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csproj.CoreCompileInputs
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csproj.CopyComplete
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.dll
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.pdb
+C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csprojAssemblyReference.cache

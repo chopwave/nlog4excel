@@ -144,7 +144,7 @@ namespace NlogCL
             return;
         }
 
-        [ExcelFunction(Description = "DisplayMenu .NET function")]
+//        [ExcelFunction(Description = "DisplayMenu .NET function")]
         [ExcelCommand(MenuName = "AddIn", MenuText = "Worksheet")]
         public static void DisplayMenu()
         {
