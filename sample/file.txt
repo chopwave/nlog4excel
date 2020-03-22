@@ -1,0 +1,95 @@
+NlogCL.Functions|Sample debug message
+2020-03-15 21:08:18.8510|INFO|NlogCL.Functions|Sample informational message
+2020-03-15 21:08:18.8510|WARN|NlogCL.Functions|Sample warning message
+2020-03-15 21:08:18.8510|ERROR|NlogCL.Functions|Sample error message
+2020-03-15 21:08:18.8510|FATAL|NlogCL.Functions|Sample fatal error message
+2020-03-15 21:08:18.8510|INFO|NlogCL.Functions|Sample informational message
+2020-03-15 21:09:25.2060|INFO|NlogCL.Functions|Hello World test;
+2020-03-15 21:09:25.2060|ERROR|NlogCL.Functions|Whoops!
+2020-03-15 21:09:25.2060|INFO|NlogCL.Functions|test
+2020-03-15 21:09:25.2060|INFO|databaseLogger|test
+2020-03-15 21:19:14.3244|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-15 21:19:38.8209|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-15 21:19:38.8629|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-15 21:19:59.6554|ERROR|NlogCL.Functions|Whoops! test;
+2020-03-15 21:19:59.6933|ERROR|databaseLogger|Whoops! test;
+2020-03-15 21:29:27.4837|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-15 21:29:27.5226|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-15 21:30:00.8397|ERROR|NlogCL.Functions|Whoops! test;
+2020-03-15 21:30:00.8846|ERROR|databaseLogger|Whoops! test;
+2020-03-15 21:32:06.4104|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-15 21:33:14.1031|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-15 21:33:14.1431|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-15 21:33:38.0430|ERROR|NlogCL.Functions|Whoops! test;
+2020-03-15 21:33:38.0929|ERROR|databaseLogger|Whoops! test;
+2020-03-15 21:34:04.3896|INFO|NlogCL.ComLibrary|Hello World test;
+2020-03-15 21:34:04.3896|ERROR|NlogCL.ComLibrary|Whoops!
+2020-03-15 21:34:04.3896|INFO|NlogCL.ComLibrary|test
+2020-03-15 21:34:04.3896|INFO|databaseLogger|test
+2020-03-15 21:34:04.4365|ERROR|NlogCL.ComLibrary|Whoops! test;
+2020-03-15 21:34:04.4365|ERROR|databaseLogger|Whoops! test;
+2020-03-15 21:34:39.6604|INFO|NlogCL.ComLibrary|Hello World test 1;
+2020-03-15 21:34:39.6604|ERROR|NlogCL.ComLibrary|Whoops!
+2020-03-15 21:34:39.6614|INFO|NlogCL.ComLibrary|test 1
+2020-03-15 21:34:39.6614|INFO|databaseLogger|test 1
+2020-03-15 21:34:39.6989|ERROR|NlogCL.ComLibrary|Whoops! test 2;
+2020-03-15 21:34:39.6989|ERROR|databaseLogger|Whoops! test 2;
+2020-03-15 21:36:34.7044|INFO|NlogCL.Functions|Hello World cdf;
+2020-03-15 21:36:34.7044|ERROR|NlogCL.Functions|Whoops!
+2020-03-15 21:36:34.7044|INFO|NlogCL.Functions|cdf
+2020-03-15 21:36:34.7044|INFO|databaseLogger|cdf
+2020-03-15 21:36:45.2667|ERROR|NlogCL.Functions|Whoops! efg;
+2020-03-15 21:36:45.2667|ERROR|databaseLogger|Whoops! efg;
+2020-03-15 21:37:16.7668|DEBUG|NlogCL.Functions|Sample debug message
+2020-03-15 21:37:16.7668|INFO|NlogCL.Functions|Sample informational message
+2020-03-15 21:37:16.7668|WARN|NlogCL.Functions|Sample warning message
+2020-03-15 21:37:16.7708|ERROR|NlogCL.Functions|Sample error message
+2020-03-15 21:37:16.7708|FATAL|NlogCL.Functions|Sample fatal error message
+2020-03-15 21:37:16.7708|INFO|NlogCL.Functions|Sample informational message
+2020-03-15 21:41:56.7555|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-15 21:41:56.7915|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-15 21:43:26.8151|ERROR|databaseLogger|Whoops!
+2020-03-15 21:43:28.8216|DEBUG|NLogAddin.ThisAddIn|Sample debug message
+2020-03-15 21:43:28.8216|INFO|NLogAddin.ThisAddIn|Sample informational message
+2020-03-15 21:43:28.8216|WARN|NLogAddin.ThisAddIn|Sample warning message
+2020-03-15 21:43:28.8216|ERROR|NLogAddin.ThisAddIn|Sample error message
+2020-03-15 21:43:28.8216|FATAL|NLogAddin.ThisAddIn|Sample fatal error message
+2020-03-15 21:43:28.8216|INFO|NLogAddin.ThisAddIn|Sample informational message
+2020-03-15 21:43:30.1000|INFO|LEVEL_INFO|Hello_World
+2020-03-15 21:43:30.1000|ERROR|LEVEL_INFO|System.Exception: 種類 'System.Exception' の例外がスローされました。
+2020-03-15 21:45:34.8820|INFO|NlogCL.ComLibrary|Hello World test 1;
+2020-03-15 21:45:34.9190|ERROR|NlogCL.ComLibrary|Whoops!
+2020-03-15 21:45:34.9190|INFO|NlogCL.ComLibrary|test 1
+2020-03-15 21:45:34.9190|INFO|databaseLogger|test 1
+2020-03-15 21:45:34.9509|ERROR|NlogCL.ComLibrary|Whoops! test 2;
+2020-03-15 21:45:34.9509|ERROR|databaseLogger|Whoops! test 2;
+2020-03-15 21:51:22.9643|INFO|NlogCL.ComLibrary|Hello World test 1;
+2020-03-15 21:51:22.9643|ERROR|NlogCL.ComLibrary|Whoops!
+2020-03-15 21:51:22.9643|INFO|NlogCL.ComLibrary|test 1
+2020-03-15 21:51:22.9643|INFO|databaseLogger|test 1
+2020-03-15 21:51:22.9643|ERROR|NlogCL.ComLibrary|Whoops! test 2;
+2020-03-15 21:51:22.9643|ERROR|databaseLogger|Whoops! test 2;
+2020-03-15 22:01:12.0986|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-15 22:10:45.8135|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-15 22:10:45.8540|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-18 08:26:53.5619|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-18 08:26:53.5955|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-18 08:34:03.1159|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-18 08:55:13.8255|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-18 08:55:13.8574|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-18 08:55:50.6042|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-19 09:17:34.1794|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-19 09:17:34.2204|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-19 09:17:46.3305|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-19 09:28:35.5878|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-19 09:28:35.6238|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-19 09:29:31.8281|INFO|NlogCL.Functions|Hello World test;
+2020-03-19 09:29:31.8650|ERROR|NlogCL.Functions|Whoops!
+2020-03-19 09:29:31.8650|INFO|NlogCL.Functions|test
+2020-03-19 09:29:31.8650|INFO|databaseLogger|test
+2020-03-19 09:29:40.8219|ERROR|NlogCL.Functions|Whoops! test;
+2020-03-19 09:29:40.8219|ERROR|databaseLogger|Whoops! test;
+2020-03-19 09:30:39.1687|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
+2020-03-19 09:39:04.4059|INFO|NLogAddin.Ribbon1|Hello World
+2020-03-19 09:39:04.4378|INFO|NLogAddin.ThisAddIn|AddIn StartUp
+2020-03-19 09:40:30.2954|INFO|NLogAddin.ThisAddIn|AddIn Shutdown
