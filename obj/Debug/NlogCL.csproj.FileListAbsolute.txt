@@ -10,3 +10,13 @@ C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csproj.CopyComplete
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.dll
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.pdb
 C:\Users\masat\source\repos\nlog4excel\obj\Debug\NlogCL.csprojAssemblyReference.cache
+T:\GitHub\nlog4excel\bin\Debug\NLog.config
+T:\GitHub\nlog4excel\bin\Debug\NlogCL.dll.config
+T:\GitHub\nlog4excel\bin\Debug\NlogCL.dll
+T:\GitHub\nlog4excel\bin\Debug\NlogCL.pdb
+T:\GitHub\nlog4excel\bin\Debug\ExcelDna.Integration.dll
+T:\GitHub\nlog4excel\bin\Debug\NLog.dll
+T:\GitHub\nlog4excel\bin\Debug\NLog.xml
+T:\GitHub\nlog4excel\obj\Debug\NlogCL.dll
+T:\GitHub\nlog4excel\obj\Debug\NlogCL.pdb
+T:\GitHub\nlog4excel\obj\Debug\NlogCL.csprojResolveAssemblyReference.cache

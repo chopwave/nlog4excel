@@ -1,0 +1,8 @@
+2020-03-25 18:46:18.5217|DEBUG|NlogCL.Logger|debug message
+2020-03-25 18:46:18.5217|DEBUG|databaseLogger|debug message
+2020-03-25 18:46:18.5373|INFO|NlogCL.Logger|info message
+2020-03-25 18:46:18.5373|INFO|databaseLogger|info message
+2020-03-25 18:46:18.5373|WARN|NlogCL.Logger|warn message
+2020-03-25 18:46:18.5373|WARN|databaseLogger|warn message
+2020-03-25 18:46:18.5373|ERROR|NlogCL.Logger|error message
+2020-03-25 18:46:18.5373|ERROR|databaseLogger|error message

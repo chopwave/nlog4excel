@@ -11,6 +11,21 @@ using NLog;
 
 namespace NlogCL
 {
+    [System.Runtime.InteropServices.ComVisible(true)]
+    [ClassInterface(ClassInterfaceType.AutoDual)]
+    public class Logger
+    {
+        NLog.Logger textLogger = NLog.LogManager.GetCurrentClassLogger();
+        NLog.Logger dbLogger = NLog.LogManager.GetLogger("databaseLogger");
+
+        public void Debug(string message) { textLogger.Debug(message); dbLogger.Debug(message); }
+        public void Info(string message) { textLogger.Info(message); dbLogger.Info(message); }
+        public void Warn(string message) { textLogger.Warn(message); dbLogger.Warn(message); }
+        public void Error(string message) { textLogger.Error(message); dbLogger.Error(message); }
+
+    }
+
+
     //VBA関数
     [System.Runtime.InteropServices.ComVisible(true)]
     [ClassInterface(ClassInterfaceType.AutoDual)]
